@@ -11,8 +11,7 @@ public class HomePage extends PageBase  {
 
 
     //3- Constructor
-   // public HomePage(WebDriver driver) {
-        super(driver);
+   // public HomePage(WebDriver driver) {super(driver);
     }
 
     //4- Actions
