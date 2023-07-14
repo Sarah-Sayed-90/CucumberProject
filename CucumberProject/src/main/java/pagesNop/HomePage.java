@@ -11,7 +11,7 @@ public class HomePage extends PageBase  {
 
 
     //3- Constructor
-    public HomePage(WebDriver driver) {
+   // public HomePage(WebDriver driver) {
         super(driver);
     }
 
@@ -23,6 +23,8 @@ public class HomePage extends PageBase  {
 
 
     //Find Elements
+
+    public void testmethod(){}
 
 
 }
